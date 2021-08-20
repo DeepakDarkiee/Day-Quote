@@ -1,0 +1,3 @@
+ debuild -us -uc # for deb 
+ dput ppa:mindzworld/python-day-quote  #to upload ppa
+ debuild -S -sa #build package

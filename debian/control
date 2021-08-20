@@ -1,0 +1,12 @@
+Source: python3-day-quote
+Maintainer: Deepak Patidar <info.deepakpatidar@gmail.com>
+Build-Depends: debhelper,dh-python,python3-all,python3-setuptools
+Section: devel
+Priority: optional
+Standards-Version: 3.9.5
+X-Python3-Version: >= 3.6
+
+Package: python3-day-quote
+Architecture: any
+Description: Get  quote day with Python.
+Depends: ${python3:Depends},python3-requests
