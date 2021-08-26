@@ -1,9 +1,0 @@
-Package: python3-day-quote
-Version: 0.0.6
-Architecture: amd64
-Maintainer: Deepak Patidar <info.deepakpatidar@gmail.com>
-Installed-Size: 21
-Depends: python3-requests, python3:any (>= 3.6~)
-Section: devel
-Priority: optional
-Description: Get  quote day with Python.
